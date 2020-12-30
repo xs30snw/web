@@ -5,6 +5,7 @@ https://en.wikipedia.org/wiki/Comparison_of_web_frameworks
 - Bootstrap
 - Bulma
 - Materialize
+- Tailwind CSS
 
 ## Backend
 - Django
